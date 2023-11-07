@@ -1,6 +1,6 @@
 # SentinelNetGuard-dev/SentinelNetGuard Secure Connect
 ## Official Wiki: https://github.com/SentinelNetGuard/SentinelNetGuard/wiki
-### https://sentinel.gibb.club/
+### https://sentinelnet.xyz/
 ### sentinlwvaer2biec2hlv3sjc3lzikov4cjx42xigob7slzib5znhpqd.onion/
 SentinelNetGuard
 <br>
