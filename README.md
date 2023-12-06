@@ -4,6 +4,7 @@
 ### http://sentinlwvaer2biec2hlv3sjc3lzikov4cjx42xigob7slzib5znhpqd.onion/
 SentinelNetGuard
 <br>
+Currently Only accessable from Sweden(SE) & The Netherlands(NL). [Onion works from any location.]
 
 .zip passwords: sentinelnetguard
 
