@@ -8,6 +8,6 @@ Currently Only accessable from Sweden(SE) & The Netherlands(NL). [Onion works fr
 
 .zip passwords: sentinelnetguard
 
-Copyright © William Johnsson 2023
+Copyright © William Johnsson 2022-2024
 
 This code is protected by copyright law. No license is granted. Unauthorized use, modification, or distribution is prohibited.
