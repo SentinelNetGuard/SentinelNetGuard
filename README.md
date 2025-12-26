@@ -1,7 +1,7 @@
 # SentinelNetGuard-dev/SentinelNetGuard Secure Connect
 ## Official Wiki: https://github.com/SentinelNetGuard/SentinelNetGuard/wiki
-### https://sentinelnet.xyz/
-### http://sentinlwvaer2biec2hlv3sjc3lzikov4cjx42xigob7slzib5znhpqd.onion/
+### https://sentinelnet.xyz/ (No Longer Online as of 26/12/2025)
+### http://sentinlwvaer2biec2hlv3sjc3lzikov4cjx42xigob7slzib5znhpqd.onion/ (No Longer Online as of 26/12/2025)
 SentinelNetGuard
 <br>
 Currently Only accessable from Sweden(SE) & The Netherlands(NL). [Onion works from any location.]
